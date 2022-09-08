@@ -4,6 +4,6 @@ computer-force-website
 
 Hi,
 
-Small project about a website ofd a store that sells electronics. 
+It is a small project about a store website that sells electronics. 
 
 I used CSS, HTML and JavaScript.
